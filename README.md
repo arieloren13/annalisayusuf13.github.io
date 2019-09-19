@@ -8,6 +8,6 @@
  <bg color="blue">
 <h1>Welcome to Guyana!</h1>
 <p><i><b><font color="green">...The land of many waters!</font></b></i></p>
-<img src="flag.png">
+<img src="flag.png"/>
 </body>
 </html>
